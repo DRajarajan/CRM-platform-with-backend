@@ -1,6 +1,5 @@
 # InsightCRM - Modern Customer Relationship Management
 
-![InsightCRM Dashboard](https://images.pexels.com/photos/7654905/pexels-photo-7654905.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 InsightCRM is a powerful, modern customer relationship management platform built with React and TypeScript. It helps businesses manage customer relationships, create targeted campaigns, and gain valuable insights through AI-powered analytics.
 
@@ -108,24 +107,3 @@ src/
 - Reusable segment templates
 - Advanced filtering options
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Icons by [Lucide](https://lucide.dev/)
-- UI components inspired by [Tailwind UI](https://tailwindui.com/)
-- Stock photos from [Pexels](https://www.pexels.com/)
-
-## Support
-
-For support, email support@insightcrm.com or join our Slack channel.
